@@ -1,4 +1,4 @@
-# *Hey there 👋*, *I'm Somil-Mittal*
+# *Hey there 👋*, *I'm Somil Mittal*
 # 💫 About Me:
 🔭 I’m currently working on Web development and Machine learning<br>👯 I’m looking to collaborate on Web development projects<br>🌱 I’m currently learning Machine learning<br>
 
